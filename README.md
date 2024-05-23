@@ -1,2 +1,0 @@
-# wizarddit
-Our Agency website
