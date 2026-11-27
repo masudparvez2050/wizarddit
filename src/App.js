@@ -14,10 +14,7 @@ import ContactPage from "./pages/ContactPage";
 import BlogPage from "./pages/Blog/BlogPage";
 import BlogDetailsPage from "./pages/Blog/BlogDetailsPage";
 import AnimatedCursor from "react-animated-cursor";
-import { createRequire } from 'module';
 
-var require = createRequire(import.meta.url);
-var module = { exports: {} };
 
 function App() {
   useEffect(() => {
